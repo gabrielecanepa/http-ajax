@@ -1,1 +1,1 @@
-console.log("Hello from src/index.js!");
+// TODO: HTTP and AJAX!
